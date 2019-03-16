@@ -1,0 +1,77 @@
+h1 {
+	color: #575F7D;
+	font-weight: 900;
+	font-size: 32px;
+}
+
+h2 {
+	color: #2EE3CA
+	font-weight: 400;
+	font-size: 24px
+}
+
+
+h1,h2, a {
+	font-family: 'Lobster', cursive;
+}
+
+body {
+	font-family: 'Lato', sans-serif;
+	font-size: 18px;
+	background-color: #F7F9FC;
+	color: #575F7D;
+}
+
+a {
+   text-decoration: none;
+}
+
+/*id and classes */
+
+.card-white {
+	background-color: white;
+	padding: 40px;
+	margin: 30px 0px;
+	border-radius: 4px;
+	box-shadow: 0px 10px; 
+	text-align: center;
+}
+
+.container {
+	width: 700px;
+	margin: 0 auto;
+}
+
+.img-circle {
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.btn-purple {
+    background-color: #6B72E1;
+	padding: 15px 20px;
+	color: white;
+	border-radius: 4px;
+	font-size: 18px;
+}
+
+.btn-purple: hover {
+	background-color: #2EE3CA;
+}
+
+.list-inline {
+	list-style: none;
+	padding: 0px;
+}
+
+.list-inline li {
+    display: inline;
+}
+
+.list-inline i {
+	color: rgb (230,230,230);
+	font-size: 25px;
+}
+
+list-inline
